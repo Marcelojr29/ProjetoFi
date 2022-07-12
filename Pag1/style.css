@@ -27,13 +27,17 @@
     background: #23232e;
     height: 8vh;
   }
-  
+
   main {
     background: url("io.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
   }
-  
+
+  .image{
+   width: 150px;
+   height: 50px;
+  }
   .nav-list {
     list-style: none;
     display: flex;

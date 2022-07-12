@@ -11,7 +11,7 @@
     <header>
         <nav>
           <a class="logo" href="/">GameStore</a>
-          <img class="image"src="controller.jpg" width="150">
+          <img class="image"src="controller.jpg" width="150" height="50" background="transparent">
           <div class="mobile-menu">
             <div class="linha1"></div>
             <div class="linha2"></div>
@@ -22,9 +22,25 @@
             <li><a href="#">Sobre</a></li>
             <li><a href="#">Projetos</a></li>
             <li><a href="#">Contato</a></li>
-            <li id="login"><a href="Login.php">ENTRAR</a></li>
+            <li id="login"><a href="Log-in.php">ENTRAR</a></li>
           </ul>
         </nav>
+        <div class="laranja">
+    <ul>JOGOS DE TERROR</ul>
+    <p class="p">bb</p>
+</div>
+<div class="laranja">
+    <ul>JOGOS DE AÇÃO</ul>
+    <p class="p">cc</p>
+</div>
+<div class="laranja">
+    <ul>JOGOS DE FANTASIA</ul>
+    <p class="p">dd</p>
+</div>
+<div class="laranja">
+    <ul>SOBRE O PROJETO</ul>
+    <p class="p">ee</p>
+</div>
       </header>
       <main></main>
       <script src="mobile-navbar.js"></script>

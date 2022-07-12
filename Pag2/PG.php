@@ -1,4 +1,3 @@
-<!-- COMENTADO
 <!DOCTYPE html>
 <html lang="Pt-br">
 <head>
@@ -6,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DEEP GAMES</title>
-    <link rel="stylesheet" href="Pagina_Web.css">
+    <link rel="stylesheet" href="Pagina.css">
 </head>
 
 <body>
@@ -50,11 +49,10 @@
 </div>
 
 <div id="rodape">
-    <ul><h1 class="branco"><span class="duasletras">D</span>eep<span class="duasletras"> G</span>ames</h1></ul>
+    <ul><h1 class="branco"><span class="duasletras">G</span>ames<span class="duasletras"> S</span>tore</h1></ul>
 </div>
 <ul class="contato">Redes Sociais</ul>
 <ul class="contato">Contato</ul>
-   <script src="Pagina_web.js"></script> 
+   <script src="Log-in.js"></script> 
 </body>
 </html>
---->

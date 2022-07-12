@@ -8,7 +8,7 @@
      <!-- Icone de fontes -->
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- css stylesheet -->
-    <link rel="stylesheet" href="Login.css">
+    <link rel="stylesheet" href="Log-in.css">
 </head>
 <body>
     <div class="container" id="container">
@@ -74,7 +74,7 @@
         </div>
     </div>
     <!-- js code -->
-    <script src="Login.js"></script>
+    <script src="Log-in.js"></script>
 
 </body>
 </html>
